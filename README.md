@@ -4,4 +4,4 @@
 + [CAESAR: Context Awareness Enabled Summary-Attentive Reader (2018)](https://arxiv.org/pdf/1803.01335.pdf)
 
 2. Optimization Techniques
-[ADAM: A Method for Stochastic Optimization (2015)](https://arxiv.org/pdf/1412.6980.pdf)
++ [ADAM: A Method for Stochastic Optimization (2015)](https://arxiv.org/pdf/1412.6980.pdf)
