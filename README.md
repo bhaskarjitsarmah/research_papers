@@ -4,6 +4,7 @@
 + [Natural Language Processing (almost) from Scratch (2011)](https://arxiv.org/pdf/1103.0398.pdf)
 + [Distributed Representations of Words and Phrases and their Compositionality (2013)](https://arxiv.org/pdf/1310.4546.pdf)
 + [Speech Recognition with Deep Recurrent Neural Networks (2013)](https://arxiv.org/pdf/1303.5778.pdf)
++ [A Convolutional Neural Network for Modeling Sentences (2014)](https://arxiv.org/pdf/1404.2188.pdf)
 + [Semantic Parsing for Single-Relation Question Answering (2014)](http://acl2014.org/acl2014/P14-2/pdf/P14-2105.pdf)
 + [On the Properties of Neural Machine Translation: Encoder-Decoder Approaches (2014)](https://arxiv.org/pdf/1409.1259.pdf)
 + [Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling (2014)](https://arxiv.org/pdf/1412.3555.pdf)
