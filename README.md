@@ -1,6 +1,7 @@
 1. Natural Language Processing:
 + [A Neural Probabilistic Language Model (2003)](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
 + [Learning Discriminative Projections of Text Similarity Measures (2011)](https://pdfs.semanticscholar.org/bdc6/acc8d11b9ef1e8f0fe2f0f41ce7b6f6a100a.pdf)
++ [Natural Language Processing (almost from Scratch) (2011)](https://arxiv.org/pdf/1103.0398.pdf)
 + [Distributed Representations of Words and Phrases and their Compositionality (2013)](https://arxiv.org/pdf/1310.4546.pdf)
 + [Speech Recognition with Deep Recurrent Neural Networks (2013)](https://arxiv.org/pdf/1303.5778.pdf)
 + [On the Properties of Neural Machine Translation: Encoder-Decoder Approaches (2014)](https://arxiv.org/pdf/1409.1259.pdf)
