@@ -17,6 +17,7 @@
 
 2. Computer Vision
 + [CNN Features off-the-shelf: an Astounding Baseline for Recognition (2014)](https://arxiv.org/pdf/1403.6382.pdf)
++ [Image-to-Image Translation with Conditional Adversarial Networks (2017)](https://arxiv.org/pdf/1611.07004.pdf)
 
 3. Optimization Techniques
 + [ADAM: A Method for Stochastic Optimization (2015)](https://arxiv.org/pdf/1412.6980.pdf)
