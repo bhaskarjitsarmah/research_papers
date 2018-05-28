@@ -1,5 +1,6 @@
 1. Natural Language Processing:
 + [A Neural Probabilistic Language Model (2003)](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
++ [Feature Hashing for Large Scale Multitask Learning (2010)](https://arxiv.org/pdf/0902.2206.pdf)
 + [Learning Discriminative Projections of Text Similarity Measures (2011)](https://pdfs.semanticscholar.org/bdc6/acc8d11b9ef1e8f0fe2f0f41ce7b6f6a100a.pdf)
 + [Natural Language Processing (almost) from Scratch (2011)](https://arxiv.org/pdf/1103.0398.pdf)
 + [Efficient Estimation of Word Representations in Vector Space (2013)](https://arxiv.org/pdf/1301.3781.pdf)
