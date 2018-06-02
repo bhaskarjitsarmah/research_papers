@@ -11,6 +11,7 @@
 + [Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank (2013)](https://nlp.stanford.edu/~socherr/EMNLP2013_RNTN.pdf)
 + [Speech Recognition with Deep Recurrent Neural Networks (2013)](https://arxiv.org/pdf/1303.5778.pdf)
 + [GloVe: Global Vectors for Word Representation (2014)](https://nlp.stanford.edu/pubs/glove.pdf)
++ [Neural Word Embedding as Implicit Matrix Factorization (2014)](https://papers.nips.cc/paper/5477-neural-word-embedding-as-implicit-matrix-factorization.pdf)
 + [A Convolutional Neural Network for Modeling Sentences (2014)](https://arxiv.org/pdf/1404.2188.pdf)
 + [Semantic Parsing for Single-Relation Question Answering (2014)](http://acl2014.org/acl2014/P14-2/pdf/P14-2105.pdf)
 + [On the Properties of Neural Machine Translation: Encoder-Decoder Approaches (2014)](https://arxiv.org/pdf/1409.1259.pdf)
