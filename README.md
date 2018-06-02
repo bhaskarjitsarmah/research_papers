@@ -5,6 +5,7 @@
 + [Feature Hashing for Large Scale Multitask Learning (2010)](https://arxiv.org/pdf/0902.2206.pdf)
 + [Learning Discriminative Projections of Text Similarity Measures (2011)](https://pdfs.semanticscholar.org/bdc6/acc8d11b9ef1e8f0fe2f0f41ce7b6f6a100a.pdf)
 + [Natural Language Processing (almost) from Scratch (2011)](https://arxiv.org/pdf/1103.0398.pdf)
++ [Linguistic Regularities in Continuous Space Word Representations (2013)](https://www.aclweb.org/anthology/N13-1090)
 + [A Reliable Effective Terascale Linear Learning System (2013)](https://arxiv.org/pdf/1110.4198.pdf)
 + [Efficient Estimation of Word Representations in Vector Space (2013)](https://arxiv.org/pdf/1301.3781.pdf)
 + [Distributed Representations of Words and Phrases and their Compositionality (2013)](https://arxiv.org/pdf/1310.4546.pdf)
