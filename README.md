@@ -25,6 +25,7 @@
 + [The (Too Many) Problems of Analogical Reasoning with Word Vectors (2017)](http://www.aclweb.org/anthology/S17-1017)
 + [Linguistic Knowledge as Memory for Recurrent Neural Networks (2017)](https://arxiv.org/pdf/1703.02620.pdf)
 + [MoNoise: Modeling Noise Using a Modular Normalization System (2017)](https://arxiv.org/pdf/1710.03476.pdf)
++ [Morph-fitting: Fine-Tuning Word Vector Spaces with Simple Language-Specific Rules (2017)](https://arxiv.org/pdf/1706.00377.pdf)
 + [Word Embedding Attention Network: Generating Words by Querying Distributed Word Representations for Paraphrase Generation (2018)](https://arxiv.org/abs/1803.01465)
 + [CAESAR: Context Awareness Enabled Summary-Attentive Reader (2018)](https://arxiv.org/pdf/1803.01335.pdf)
 
