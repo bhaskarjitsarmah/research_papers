@@ -20,6 +20,7 @@
 + [On the Properties of Neural Machine Translation: Encoder-Decoder Approaches (2014)](https://arxiv.org/pdf/1409.1259.pdf)
 + [Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling (2014)](https://arxiv.org/pdf/1412.3555.pdf)
 + [Skip-Thought Vectors (2015)](https://arxiv.org/pdf/1506.06726.pdf)
++ [Additive Regularization of Topic Models for Topic Selection and Sparse Factorization (2015)](https://pdfs.semanticscholar.org/bed6/5ae6f3e2c4949d4531392945eff86e572d8d.pdf)
 + [Document Embedding with Paragraph Vectors (2015)](https://arxiv.org/pdf/1507.07998.pdf)
 + [Improving Distributional Similarity with Lessons Learned from Word Embeddings (2015)](http://www.aclweb.org/anthology/Q15-1016)
 + [Enriching Word Vectors with Subword Information (2016)](https://arxiv.org/pdf/1607.04606.pdf)
