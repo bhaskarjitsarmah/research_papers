@@ -19,6 +19,7 @@
 + [Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling (2014)](https://arxiv.org/pdf/1412.3555.pdf)
 + [Document Embedding with Paragraph Vectors (2015)](https://arxiv.org/pdf/1507.07998.pdf)
 + [Improving Distributional Similarity with Lessons Learned from Word Embeddings (2015)](http://www.aclweb.org/anthology/Q15-1016)
++ [Issues in evaluating semantic spaces using word analogies (2016)](https://arxiv.org/pdf/1606.07736.pdf)
 + [SelQA: A New Benchmark for Selection-based Question Answering (2016)](https://arxiv.org/pdf/1606.08513.pdf)
 + [End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF (2016)](https://arxiv.org/pdf/1603.01354.pdf)
 + [The (Too Many) Problems of Analogical Reasoning with Word Vectors (2017)](http://www.aclweb.org/anthology/S17-1017)
