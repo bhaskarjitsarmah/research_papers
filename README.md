@@ -21,6 +21,7 @@
 + [Improving Distributional Similarity with Lessons Learned from Word Embeddings (2015)](http://www.aclweb.org/anthology/Q15-1016)
 + [SelQA: A New Benchmark for Selection-based Question Answering (2016)](https://arxiv.org/pdf/1606.08513.pdf)
 + [End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF (2016)](https://arxiv.org/pdf/1603.01354.pdf)
++ [The (Too Many) Problems of Analogical Reasoning with Word Vectors (2017)](http://www.aclweb.org/anthology/S17-1017)
 + [Linguistic Knowledge as Memory for Recurrent Neural Networks (2017)](https://arxiv.org/pdf/1703.02620.pdf)
 + [MoNoise: Modeling Noise Using a Modular Normalization System (2017)](https://arxiv.org/pdf/1710.03476.pdf)
 + [Word Embedding Attention Network: Generating Words by Querying Distributed Word Representations for Paraphrase Generation (2018)](https://arxiv.org/abs/1803.01465)
