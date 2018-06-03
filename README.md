@@ -1,6 +1,7 @@
 1. Natural Language Processing:
 + [A Vector Model for Syntagmatic and Paradigmatic Relatedness (1993)](https://pdfs.semanticscholar.org/e449/37535d0849412e8042f4fddca5c9dde7da3e.pdf)
 + [A Neural Probabilistic Language Model (2003)](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
++ [On Smoothing and Inference for Topic Models (2009)](https://arxiv.org/ftp/arxiv/papers/1205/1205.2662.pdf)
 + [From Frequency to Meaning: Vector Space Models of Semantics (2010)](https://arxiv.org/pdf/1003.1141.pdf)
 + [Feature Hashing for Large Scale Multitask Learning (2010)](https://arxiv.org/pdf/0902.2206.pdf)
 + [Learning Discriminative Projections of Text Similarity Measures (2011)](https://pdfs.semanticscholar.org/bdc6/acc8d11b9ef1e8f0fe2f0f41ce7b6f6a100a.pdf)
