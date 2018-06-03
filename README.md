@@ -23,6 +23,7 @@
 + [Issues in evaluating semantic spaces using word analogies (2016)](https://arxiv.org/pdf/1606.07736.pdf)
 + [SelQA: A New Benchmark for Selection-based Question Answering (2016)](https://arxiv.org/pdf/1606.08513.pdf)
 + [End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF (2016)](https://arxiv.org/pdf/1603.01354.pdf)
++ [StarSpace: Embed All The Things! (2017)](https://arxiv.org/pdf/1709.03856.pdf)
 + [Unsupervised Learning of Sentence Embeddings using Compositional n-Gram Features (2017)](https://arxiv.org/pdf/1703.02507.pdf)
 + [The (Too Many) Problems of Analogical Reasoning with Word Vectors (2017)](http://www.aclweb.org/anthology/S17-1017)
 + [Linguistic Knowledge as Memory for Recurrent Neural Networks (2017)](https://arxiv.org/pdf/1703.02620.pdf)
