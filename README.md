@@ -43,3 +43,6 @@
 
 3. Optimization Techniques
 + [ADAM: A Method for Stochastic Optimization (2015)](https://arxiv.org/pdf/1412.6980.pdf)
+
+4. Uncertainty Estimations
++ [To Trust Or Not To Trust A Classifier (2018)](https://arxiv.org/pdf/1805.11783.pdf)
